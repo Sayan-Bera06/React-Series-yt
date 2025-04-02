@@ -1,5 +1,5 @@
 
-
+import Demo from './demo'
 
 function App() {
   
@@ -27,8 +27,11 @@ function App() {
     //     Click on the Vite and React logos to learn more
     //   </p>
     // </>
-
-    <h1>HEY EGOIST</h1>
+     <>
+     <h1>HEY EGOIST</h1>
+    <Demo/>
+    </>
+    
   )
 }
 
